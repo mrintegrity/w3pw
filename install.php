@@ -2,6 +2,6 @@
 
 /*
  * experiment with installer stuff.
- */
+ **/
   
 ?>
